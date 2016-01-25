@@ -1,0 +1,53 @@
+body {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 35px;
+	background-color: black;
+}
+
+p {
+	margin: 50px 30px 20px 30px;
+	text-align: center;
+	color: white;
+}
+
+.container {
+	margin: 0 150px;
+}
+
+.speaker {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	text-transform: uppercase;
+	font-size: 15px;
+	display: block;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.leftQuotationMark, .rightQuotationMark {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px;
+	color: white;
+}
+
+.leftQuotationMark {
+	float: left;
+	margin-left: 150px;
+}
+
+.rightQuotationMark {
+	float: right;
+	margin-right: 150px;
+}
+
+#talk {
+	clear: right;
+	display: block;
+	text-align: center
+}
+
+button {
+	font-family: 'Montserrat', sans-serif;
+	border-radius: 15px;
+	font-size: 10px;
+}
